@@ -83,8 +83,6 @@ Item {
         PlasmaCore.Svg {
         
             id: clockSvg
-            // imagePath: "/run/media/hammer/Data/projects/QML/org.kde.plasma.analogclock/contents/ui/clock"
-           // imagePath: "/home/hammer/.local/share/plasma/look-and-feel/DigiTech2/contents/components/clock2.svgz"
            imagePath: "/home/hammer/.local/share/plasma/look-and-feel/DigiTech2/contents/components/boxygenclock.svgz"
             function estimateHorizontalHandShadowOffset() {
                 var id = "hint-hands-shadow-offset-to-west";
