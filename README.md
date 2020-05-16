@@ -1,3 +1,3 @@
 # lockscreen-analog
 Analog clock lockscreen
-[!(preview.png)]
+[![Plasma Lockscreen](preview.png)]
