@@ -1,3 +1,3 @@
 # lockscreen-analog
 Analog clock lockscreen
-(preview.png)
+[](preview.png)
